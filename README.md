@@ -35,16 +35,16 @@
       
   9.	Setelah itu lalu jalankan perintah git init,untuk membuat repository local
   
-       ![image](https://user-images.githubusercontent.com/56722786/67161913-0331c680-f314-11e9-80ec-54a74a6a0553.png)
-   
+   ![image](https://user-images.githubusercontent.com/56722786/67174484-0611d300-f377-11e9-899a-636ccb7299de.png)
+
  10.	Lalu untuk langkah selanjutnya ketik gid add README.md
  
-       ![image](https://user-images.githubusercontent.com/56722786/67161952-3ffdbd80-f314-11e9-98b8-2b79bdc135b7.png)
-       
+   ![image](https://user-images.githubusercontent.com/56722786/67174585-6274f280-f377-11e9-9eae-7af11e57a54f.png)
+     
   11.	Selanjutnya ketik perintah git commit –m “first commit”
   
-       ![image](https://user-images.githubusercontent.com/56722786/67162204-bc919b80-f316-11e9-9f12-f5f1563e04be.png)
-       
+   ![image](https://user-images.githubusercontent.com/56722786/67174643-a667f780-f377-11e9-8526-04e3d4892e31.png)
+
        
   
   TUTORIAL MEMBUAT REPOSITORY SERVER
@@ -52,27 +52,27 @@
 
   	Setelah membuat akun klik New Repository
   
-      ![image](https://user-images.githubusercontent.com/56722786/67162381-5148c900-f318-11e9-96f3-9075d773f142.png)
+   ![image](https://user-images.githubusercontent.com/56722786/67162381-5148c900-f318-11e9-96f3-9075d773f142.png)
       
       
    	Setelah itu isi nama repository latihan1, lalu klik create repository
    
-       ![image](https://user-images.githubusercontent.com/56722786/67162410-a258bd00-f318-11e9-8b42-bcb056fdf1c9.png)
+   ![image](https://user-images.githubusercontent.com/56722786/67162410-a258bd00-f318-11e9-8b42-bcb056fdf1c9.png)
        
    	Setelah itu kembali ke Git Bash dengan mengetik perintah git remote add origin [url]
     
-       ![image](https://user-images.githubusercontent.com/56722786/67162454-f2d01a80-f318-11e9-8cee-03e0c4303593.png)
+   ![image](https://user-images.githubusercontent.com/56722786/67162454-f2d01a80-f318-11e9-8cee-03e0c4303593.png)
        
    	Lalu untuk menaruh file README.md yang tadi sudah dibuat,dengan cara mengetik perintah git push –u origin master
      
-        ![image](https://user-images.githubusercontent.com/56722786/67162473-1a26e780-f319-11e9-9ab9-61622a4aa0b6.png)
+   ![image](https://user-images.githubusercontent.com/56722786/67162473-1a26e780-f319-11e9-9ab9-61622a4aa0b6.png)
         
    
    
    
    	Lalu jika berhasil akan seperti gambar dibawah, dan file README.md sudah berada di repository latihan1 di Github.com
     
-         ![image](https://user-images.githubusercontent.com/56722786/67162522-98838980-f319-11e9-85e5-ec81878bea53.png)
+   ![image](https://user-images.githubusercontent.com/56722786/67162522-98838980-f319-11e9-85e5-ec81878bea53.png)
 
 
 
